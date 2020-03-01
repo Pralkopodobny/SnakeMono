@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/MonoGameTutorialProjects/SnakeMono/SnakeMono/Content/Aoba.png","D:/MonoGameTutorialProjects/SnakeMono/SnakeMono/Content/bin/DesktopGL/Aoba.xnb","TextureProcessor","Texture2DContent",2427,4181,0,3315883
+"D:/MonoGameTutorialProjects/SnakeMono/SnakeMono/Content/ArialFont.spritefont","D:/MonoGameTutorialProjects/SnakeMono/SnakeMono/Content/bin/DesktopGL/ArialFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,2139322

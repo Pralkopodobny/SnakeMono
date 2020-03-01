@@ -1,0 +1,13 @@
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\bin\Debug\netcoreapp2.0\Content\Aoba.xnb
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\bin\Debug\netcoreapp2.0\Content\ArialFont.xnb
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\bin\Debug\netcoreapp2.0\SnakeMono.deps.json
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\bin\Debug\netcoreapp2.0\SnakeMono.runtimeconfig.json
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\bin\Debug\netcoreapp2.0\SnakeMono.runtimeconfig.dev.json
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\bin\Debug\netcoreapp2.0\SnakeMono.dll
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\bin\Debug\netcoreapp2.0\SnakeMono.pdb
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\obj\Debug\netcoreapp2.0\SnakeMono.csprojAssemblyReference.cache
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\obj\Debug\netcoreapp2.0\SnakeMono.csproj.CoreCompileInputs.cache
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\obj\Debug\netcoreapp2.0\SnakeMono.AssemblyInfoInputs.cache
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\obj\Debug\netcoreapp2.0\SnakeMono.AssemblyInfo.cs
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\obj\Debug\netcoreapp2.0\SnakeMono.dll
+D:\MonoGameTutorialProjects\SnakeMono\SnakeMono\obj\Debug\netcoreapp2.0\SnakeMono.pdb
